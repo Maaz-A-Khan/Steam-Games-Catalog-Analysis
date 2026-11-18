@@ -1,0 +1,7 @@
+# raw dataset is about 400 MB, over GitHub's 100 MB limit; download it from Kaggle
+steam_games_raw.csv
+games.csv
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
